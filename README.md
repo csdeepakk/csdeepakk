@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Deepak 👋</h1>
 
-<h3 align="center">BCA Student | Aspiring SOC Analyst | Cybersecurity Enthusiast</h3>
-
+<p align="center">
+   <img src="banner.png"/>
+</p> 
 ---
 
 ## 👨‍💻 About Me
