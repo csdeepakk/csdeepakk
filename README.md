@@ -18,7 +18,7 @@ I am Deepak Kumar, a BCA student from XYZ College, Greater Noida, India. I am an
 [![Log Analysis](https://img.shields.io/badge/Log%20Analysis-FF5733?style=for-the-badge)](#)
 [![Network Traffic](https://img.shields.io/badge/Network%20Traffic%20Analysis-0E76A8?style=for-the-badge)](#)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Fundamentals-3776AB?style=for-the-badge)](#)
-[![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-012456?style=for-the-badge&logo=microsoft-powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 
