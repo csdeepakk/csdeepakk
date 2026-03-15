@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Deepak 👋</h1>
 
 <p align="center">
-   <img src="banner.png"/>
+   <img src="banner.png" width="100%">
 </p> 
 ---
 
