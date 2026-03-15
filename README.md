@@ -18,7 +18,7 @@ I enjoy working with Linux systems, analyzing network traffic, and learning how 
 - Network Traffic Analysis
 - Log Analysis
 - Cybersecurity Fundamentals
-- Python (Basic)
+- Python 
 
 ---
 
@@ -40,6 +40,3 @@ I enjoy working with Linux systems, analyzing network traffic, and learning how 
 
 ---
 
-## 📍 Location
-
-Greater Noida, India
