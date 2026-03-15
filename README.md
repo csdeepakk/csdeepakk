@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Deepak 👋</h1>
 
-<!--
-**csdeepakk/csdeepakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">BCA Student | Aspiring SOC Analyst | Cybersecurity Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a BCA student with a strong interest in cybersecurity and SOC operations.  
+I enjoy working with Linux systems, analyzing network traffic, and learning how security threats are detected and monitored.
+
+---
+
+## 🛠 Technical Skills
+
+- Networking Fundamentals (TCP/IP, OSI Model, Ports & Protocols)
+- Linux Administration
+- Network Traffic Analysis
+- Log Analysis
+- Cybersecurity Fundamentals
+- Python (Basic)
+
+---
+
+## 🔧 Security Tools
+
+- Wireshark
+- Nmap
+- VirusTotal
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- SOC Operations
+- Threat Detection
+- Security Monitoring
+- SIEM Tools
+
+---
+
+## 📍 Location
+
+Greater Noida, India
